@@ -1,0 +1,1990 @@
+[
+  {
+    "unique": "10398_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "10400_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "10463_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "10463_T_C",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "10463_T_C",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "10550_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "10550_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "10873_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11251_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "11251_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11251_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11253_T_C",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11253_T_C",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11299_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11299_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11311_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11467_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11467_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11662_T_C",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11719_G_A",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11812_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "11812_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "11812_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12007_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12280_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12308_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "12308_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12372_G_A",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "12372_G_A",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12705_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "12810_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "13326_T_C",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "13368_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "13368_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "13368_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "13413_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "13680_C_T",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "13934_C_T",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14167_C_T",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14167_C_T",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14233_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "14233_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14233_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14305_G_A",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14305_G_A",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1438_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14587_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14650_C_T",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14650_C_T",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "146_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "146_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14766_C_T",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14783_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14798_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14798_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14861_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14872_C_T",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "14905_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "14905_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "14905_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15043_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "152_T_C",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "152_T_C",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "152_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "152_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "152_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15301_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15326_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15412_T_C",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "15452_C_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "15452_C_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15452_C_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15565_T_C",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15607_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "15607_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15607_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15833_C_T",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15833_C_T",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15904_C_T",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15928_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "15928_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "15928_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16086_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16126_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16126_T_C",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16126_T_C",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16145_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16223_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16224_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16224_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16261_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16294_C_T",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16294_C_T",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16294_C_T",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16296_C_T",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16296_C_T",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16296_C_T",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16298_T_C",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16304_T_C",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16304_T_C",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16304_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16304_T_C",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16304_T_C",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16311_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16311_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16311_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16311_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16362_T_C",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16362_T_C",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16482_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16482_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16519_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "16526_G_A",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1719_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1811_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1811_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1888_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "1888_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "1888_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2259_C_T",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "239_T_C",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "239_T_C",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "263_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2706_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "2833_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3316_G_A",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3480_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3480_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3705_G_A",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3915_G_A",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "3915_G_A",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4216_T_C",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "4216_T_C",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4216_T_C",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4336_T_C",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4336_T_C",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4561_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4561_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "456_C_T",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "456_C_T",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4580_G_A",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "4727_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4727_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4745_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4769_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "489_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4917_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "4917_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "4917_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "6465_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "6620_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7028_C_T",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "709_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "709_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "709_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "709_G_A",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "709_G_A",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "710_T_C",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "710_T_C",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7202_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "72_T_C",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7337_G_A",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "73_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "750_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "7859_G_A",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8084_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8648_G_A",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "8697_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "8697_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8697_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8701_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "30516",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "30706",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "AD10",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "8860_A_G",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9055_G_A",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9055_G_A",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "930_G_A",
+    "id": "70310",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "930_G_A",
+    "id": "70351",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "930_G_A",
+    "id": "CL12",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9380_G_A",
+    "id": "70226",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9380_G_A",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9494_A_G",
+    "id": "OGTT",
+    "iPSC": 1,
+    "neuron": 0,
+    "group": "iPSC Only"
+  },
+  {
+    "unique": "9540_T_C",
+    "id": "SAN",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9698_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9698_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9716_T_C",
+    "id": "WT2",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9716_T_C",
+    "id": "WT4",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  },
+  {
+    "unique": "9773_C_T",
+    "id": "SRP012",
+    "iPSC": 1,
+    "neuron": 1,
+    "group": "Both"
+  }
+]
